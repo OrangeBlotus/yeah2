@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Test Feed</title>
+    <link>www.example.com</link>
+    <description>test</description>
+    <language>en-us</language>
+    <managingEditor>test@test.com</managingEditor>
+    <webMaster>test@test.com</webMaster>
+    <image>
+      <title>Test Feed</title>
+      <link>www.example.com</link>
+      <url>https://upload.wikimedia.org/wikipedia/commons/4/4e/NoraRoberts.jpg</url>
+      <width>300</width>
+      <height>400</height>
+    </image>
+    <item>
+      <title>&lt;new&gt;</title>
+      <pubDate>Thu, 16 Apr 2020 17:47:53 +0100</pubDate>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>test2</title>
+      <pubDate>Thu, 16 Apr 2020 17:47:15 +0100</pubDate>
+      <link>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Southeast_US_severe_weather_outbreak_2020-04-12_2156z.jpg/320px-Southeast_US_severe_weather_outbreak_2020-04-12_2156z.jpg</link>
+      <guid isPermaLink="true">https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Southeast_US_severe_weather_outbreak_2020-04-12_2156z.jpg/320px-Southeast_US_severe_weather_outbreak_2020-04-12_2156z.jpg</guid>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Southeast_US_severe_weather_outbreak_2020-04-12_2156z.jpg/320px-Southeast_US_severe_weather_outbreak_2020-04-12_2156z.jpg" length="40" type="image/jpeg" />
+      <description><![CDATA[sdds]]></description>
+    </item>
+    <item>
+      <title>Test1</title>
+      <pubDate>Thu, 16 Apr 2020 17:45:49 +0100</pubDate>
+      <link>https://en.wikipedia.org/wiki/Vision_in_White</link>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Vision_in_White</guid>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/en/f/f7/Vision_in_White_cover.jpg" length="40" type="image/jpeg" />
+      <description><![CDATA[sdsdsd]]></description>
+    </item>
+  </channel>
+</rss>
